@@ -1,0 +1,4 @@
+pandas==1.5.3
+sklearn
+pickle
+numpy==1.24.0
